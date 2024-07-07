@@ -1,0 +1,17 @@
+.Container{
+    background-color: rgb(105, 4, 83);
+    color:white;
+
+}
+
+.NavBar{
+background-color: rgb(138, 43, 109);
+text-align: center;
+}
+.Main{
+background-color: rgb(105, 4, 83);
+height:200px;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: medium;
+}
